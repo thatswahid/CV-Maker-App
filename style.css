@@ -1,0 +1,108 @@
+body {
+    background-color: darkgray;
+    font-family: 'Quicksand';font-size: 18px;
+    
+}
+
+
+
+.container{
+    background-color: white;
+}
+
+.form-control{
+    border-radius: 10px;
+    border-color: teal;
+    box-shadow: 5px 5px darkgray; 
+}
+
+
+
+
+
+.skillss{
+    margin-top: 30px;   
+}
+
+.skillss li{
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: whitesmoke;
+    color:mediumpurple;
+    border: 1px solid rgb(235 235 235);
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+
+
+ul {
+    padding: 0 !important;
+}
+
+
+.pro li{
+    text-decoration: none;
+    list-style-type: none;  
+    font-size: 20px;
+}
+/* .pro ul{
+    color: red;
+} */
+
+
+.fa-envelope {
+    color: tomato;
+}
+
+.fa-phone {
+    color: yellowgreen;
+}
+
+h1{
+    color: lightskyblue;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+
+
+
+
+
+
+
+.he{
+   
+    font-weight:bold;
+    color:navy;
+    font-size: 40px;
+  
+}
+
+
+.obj{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.hob li {
+
+    text-decoration: none;
+    list-style-type: none;  
+    font-size: 20px;  
+}
+
+#main-page{
+    -webkit-font-smoothing: antialiased !important;
+}
+
+
+.fa-code {
+    color:orange;
+    margin-right: 10px;
+}
